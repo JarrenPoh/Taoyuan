@@ -1,5 +1,509 @@
 {
 	"data": {
+		"175": {
+			"id": 175,
+			"index": "flooding_times",
+			"map_config": null,
+			"history_data": true,
+			"chart_config": {
+				"types": ["TimelineSeparateChart"],
+				"color": ["#FF7575"],
+				"unit": "次"
+
+			},
+			"name": "環中東路二段淹水發生次數",
+			"source": "桃園市政府水利局",
+			"time_from": "2023-01-01",
+			"time_to": "2027-12-31",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示桃園市中壢區環中東路二段淹水發生次數",
+			"long_desc": "顯示今年一月開始台北市使照與建照的發照量，資料來源為台北市都發局建管處開放資料，每月更新",
+			"use_case": "藉由本圖表數據，我們可以追蹤淹水的變化趨勢，並進一步分析相關因素對於淹水發生的影響，以助於評估本系統之績效",
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1000": {
+			"id": 1000,
+			"index": "hi",
+			"map_config": [
+				{
+					"index": "history_locate",
+					"paint": {},
+					"property": [
+						{
+							"key": "dist",
+							"name": "區域"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						},
+						{
+							"key": "狀態",
+							"name": "狀態"
+						},
+						{
+							"key": "致災原因",
+							"name": "致災原因"
+						},
+						{
+							"key": "解決對策",
+							"name": "解決對策"
+						}
+					],
+					"icon": "location_yellow",
+					"type": "symbol",
+					"title": "近三年重大淹水地區"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "dist"
+				}
+			},
+			"chart_config": {
+				"types": ["DistrictChart", "ColumnChart"],
+				"color": ["#FFEE1E"],
+				"unit": "個"
+			},
+			"source": "交通局/Youbike",
+			"name": "近三年重大淹水地區",
+			"time_from": "2023-05-31T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": 5,
+			"update_freq_unit": "minute",
+			"short_desc": "顯示當前全市共享單車YouBike的使用情況",
+			"long_desc": "顯示當前全市共享單車YouBike的使用情況，包括可借車輛總數和可還車位總數，資料來源為微笑單車公司公開資料，每5分鐘更新。",
+			"use_case": "藉由YouBike使用情況的顯示，包括可借車輛總數及可還車位總數，我們可以了解全市YouBike使用情況，並在地圖模式查詢各站點詳細資訊。",
+			"links": [
+				"https://tdx.transportdata.tw/api-service/swagger/basic/2cc9b888-a592-496f-99de-9ab35b7fb70d#/Bike/BikeApi_Availability_2181"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1003": {
+			"id": 1003,
+			"index": "he",
+			"map_config": [
+				{
+					"index": "hot_locate",
+					"paint": {},
+					"property": [
+						{
+							"key": "dist",
+							"name": "區域"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						},
+						{
+							"key": "狀態",
+							"name": "狀態"
+						},
+						{
+							"key": "致災原因",
+							"name": "致災原因"
+						},
+						{
+							"key": "解決對策",
+							"name": "解決對策"
+						}
+					],
+					"icon": "location_red",
+					"type": "symbol",
+					"title": "高積（淹）水潛勢區防汛熱點位置"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "dist"
+				}
+			},
+			"chart_config": {
+				"types": ["DistrictChart", "ColumnChart"],
+				"color": ["#FF211E"],
+				"unit": "個"
+			},
+			"source": "交通局/Youbike",
+			"name": "高積（淹）水潛勢區防汛熱點位置",
+			"time_from": "2023-05-31T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": 5,
+			"update_freq_unit": "minute",
+			"short_desc": "顯示當前全市共享單車YouBike的使用情況",
+			"long_desc": "顯示當前全市共享單車YouBike的使用情況，包括可借車輛總數和可還車位總數，資料來源為微笑單車公司公開資料，每5分鐘更新。",
+			"use_case": "藉由YouBike使用情況的顯示，包括可借車輛總數及可還車位總數，我們可以了解全市YouBike使用情況，並在地圖模式查詢各站點詳細資訊。",
+			"links": [
+				"https://tdx.transportdata.tw/api-service/swagger/basic/2cc9b888-a592-496f-99de-9ab35b7fb70d#/Bike/BikeApi_Availability_2181"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1004": {
+			"id": 1004,
+			"index": "safe",
+			"map_config": [
+				{
+					"index": "safe_locate",
+					"paint": {},
+					"property": [
+						{
+							"key": "dist",
+							"name": "區域"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						},
+						{
+							"key": "狀態",
+							"name": "狀態"
+						},
+						{
+							"key": "容納人數",
+							"name": "容納人數"
+						}
+					],
+					"icon": "location_white",
+					"type": "symbol",
+					"title": "水災避難據點位置"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "dist"
+				}
+			},
+			"chart_config": {
+				"types": ["DistrictChart", "ColumnChart"],
+				"color": ["#BBBBBB"],
+				"unit": "個"
+			},
+			"source": "交通局/Youbike",
+			"name": "水災避難據點位置",
+			"time_from": "2023-05-31T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": 5,
+			"update_freq_unit": "minute",
+			"short_desc": "顯示當前全市共享單車YouBike的使用情況",
+			"long_desc": "顯示當前全市共享單車YouBike的使用情況，包括可借車輛總數和可還車位總數，資料來源為微笑單車公司公開資料，每5分鐘更新。",
+			"use_case": "藉由YouBike使用情況的顯示，包括可借車輛總數及可還車位總數，我們可以了解全市YouBike使用情況，並在地圖模式查詢各站點詳細資訊。",
+			"links": [
+				"https://tdx.transportdata.tw/api-service/swagger/basic/2cc9b888-a592-496f-99de-9ab35b7fb70d#/Bike/BikeApi_Availability_2181"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1173": {
+			"id": 1173,
+			"index": "pump_flood_status",
+			"map_config": [
+				{
+					"index": "pump_place",
+
+					"property": [
+						{
+							"key": "preplace_address",
+							"name": "位置"
+						},
+						{
+							"key": "all_pumb_lights",
+							"name": "抽水機狀態"
+						},
+						{
+							"key": "pump_size",
+							"name": "抽水機尺寸"
+						},
+						{
+							"key": "quantity",
+							"name": "抽水機台數"
+						}
+					],
+					"icon": "pump",
+					"type": "symbol",
+					"size": "small",
+					"title": "抽水機"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"yParam": "all_pumb_lights"
+				}
+			},
+			"chart_config": {
+				"types": ["GuageChart", "BarPercentChart"],
+				"color": ["#ed5f5f"],
+				"unit": "機",
+				"categories": ["使用中的抽水機"]
+			},
+			"name": "抽水機狀態",
+			"source": "桃園市政府水利處",
+			"time_from": "2023-01-01",
+			"time_to": null,
+			"update_freq": 10,
+			"update_freq_unit": "minute",
+			"short_desc": "顯示當前全市開啟的抽水站數量",
+			"long_desc": "顯示當前全市開啟的抽水站數量，資料來源為桃園市政府水利處內部資料，不定期更新。",
+			"use_case": "考慮當日天氣及「水位監測」組件的資料，來探討抽水機的預先派發位置以及使用效能。",
+			"links": null,
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1174": {
+			"id": 1174,
+			"index": "underwater",
+			"map_config": [
+				{
+					"index": "undwater",
+					"paint": {
+						"line-color": "#AAAAFF"
+					},
+
+					"property": [
+						{
+							"key": "District",
+							"name": "區域"
+						},
+						{
+							"key": "No",
+							"name": "管線編號"
+						},
+						{
+							"key": "SSEW_CAT",
+							"name": "主/次管線"
+						},
+						{
+							"key": "US_BLE",
+							"name": "上游水位"
+						},
+						{
+							"key": "DS_BLE",
+							"name": "下游水位"
+						}
+					],
+					"type": "line",
+					"title": "下水道管線"
+				}
+			],
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "line",
+					"color": "#AAAAFF",
+					"name": "雨水下水道管線分布"
+				}
+			],
+
+			"name": "雨水下水道管線分布",
+			"source": "桃園市政府水利處",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
+		"1002": {
+			"id": 1002,
+			"index": "yo",
+			"map_config": [
+				{
+					"index": "flood_detector",
+					"paint": {},
+					"property": [
+						{
+							"key": "District",
+							"name": "區域"
+						},
+						{
+							"key": "Address",
+							"name": "地址"
+						}
+					],
+					"icon": "flood_detector",
+					"type": "symbol",
+					"title": "淹水檢測器分佈"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "District"
+				}
+			},
+			"chart_config": {
+				"types": ["ColumnChart", "DistrictChart"],
+				"color": ["#006FB2"],
+				"unit": "個"
+			},
+			"source": "交通局/Youbike",
+			"name": "淹水檢測器分佈",
+			"time_from": "2023-05-31T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": 5,
+			"update_freq_unit": "minute",
+			"short_desc": "顯示當前全市共享單車YouBike的使用情況",
+			"long_desc": "顯示當前全市共享單車YouBike的使用情況，包括可借車輛總數和可還車位總數，資料來源為微笑單車公司公開資料，每5分鐘更新。",
+			"use_case": "藉由YouBike使用情況的顯示，包括可借車輛總數及可還車位總數，我們可以了解全市YouBike使用情況，並在地圖模式查詢各站點詳細資訊。",
+			"links": [
+				"https://tdx.transportdata.tw/api-service/swagger/basic/2cc9b888-a592-496f-99de-9ab35b7fb70d#/Bike/BikeApi_Availability_2181"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1172": {
+			"id": 1172,
+			"index": "flood_detector",
+			"map_config": null,
+			"chart_config": {
+				"color": [
+					"#9FEEFF",
+					"#76E5FC",
+					"#57E2FE",
+					"#2CDAFD",
+					"#09D2FA"
+				],
+				"types": ["BarPercentChart", "ColumnChart", "BasicChart"],
+				"unit": "個",
+				"categories": [
+					"復興區",
+					"觀音區",
+					"新屋區",
+					"平鎮區",
+					"龍潭區",
+					"八德區",
+					"龜山區",
+					"大園區",
+					"蘆竹區",
+					"楊梅區",
+					"大溪區",
+					"中壢區",
+					"桃園區"
+				]
+			},
+			"name": "全市水情感測器",
+			"source": "桃園市政府水務局",
+			"time_from": "2022-01-01",
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示當前全市水情感測器分佈狀況",
+			"long_desc": "顯示當前全市水情感測器分佈，資料來源為桃園市水利局，每年一月一日更新。",
+			"use_case": "在洪水、颱風等自然災害的發生時，水情感測器可以提供實時的水位變化和水質情況，有助於及早預警，減少災害造成的損害。",
+			"links": null,
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1001": {
+			"id": 1001,
+			"index": "hihi",
+			"map_config": [
+				{
+					"index": "rain_area",
+					"paint": {
+						"fill-extrusion-opacity": 0.4,
+						"fill-extrusion-color": [
+							"interpolate",
+							["linear"],
+							["get", "quantity"],
+							0,
+							"#DFFCFF",
+							100,
+							"#7EFFF7",
+							480,
+							"#001044",
+							500,
+							"#FF2D39"
+						],
+						"fill-extrusion-height": [
+							"interpolate",
+							["linear"],
+							["get", "quantity"],
+							0,
+							10,
+							1,
+							20,
+							10,
+							100,
+							50,
+							500,
+							75,
+							750,
+							100,
+							1000,
+							125,
+							1250,
+							150,
+							1500,
+							175,
+							1750,
+							200,
+							2000,
+							225,
+							2250,
+							250,
+							2500,
+							300,
+							3000,
+							350,
+							3500,
+							450,
+							4500,
+							500,
+							5000,
+							550,
+							5500,
+							600,
+							6000,
+							650,
+							6500
+						]
+					},
+					"property": [
+						{
+							"key": "name",
+							"name": "站點名稱"
+						},
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "info",
+							"name": "降雨資訊"
+						}
+					],
+					"type": "fill-extrusion",
+					"icon": null,
+					"title": "各區雨量站分佈（24hr+2）"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "dist"
+				}
+			},
+			"chart_config": {
+				"color": ["#61E1FF", "#01C7F5", "#00A6CD"],
+				"types": ["BarChart", "ColumnChart", "DistrictChart"],
+				"unit": "個雨水測量站"
+			},
+			"name": "各區雨量站分佈（24hr+2）",
+			"source": "消防局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
 		"5": {
 			"id": 5,
 			"index": "circular",
@@ -4224,6 +4728,7 @@
 						}
 					],
 					"type": "circle",
+					"size": "big",
 					"title": "婦產科診所與醫院分佈"
 				},
 				{

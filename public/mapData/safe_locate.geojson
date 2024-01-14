@@ -1,0 +1,5010 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "大智里福國北街 220 號",
+				"狀態": "安全",
+				"容納人數": "182"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.296878, 24.9631198]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "興豐路 2207 號",
+				"狀態": "安全",
+				"容納人數": "175"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3256358, 24.9540405]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "永豐路 170 號",
+				"狀態": "安全",
+				"容納人數": "136"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.7078499, 24.1202659]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "桃園市八德區霄裡路12號",
+				"狀態": "安全",
+				"容納人數": "125"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2639455, 24.9330497]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "和平路 548 號",
+				"狀態": "安全",
+				"容納人數": "147"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6024952, 23.9751666]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "廣興里廣興路 643 號",
+				"狀態": "安全",
+				"容納人數": "120"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2835513, 24.9469812]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "桃園市八德區廣福路218號",
+				"狀態": "安全",
+				"容納人數": "105"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2940242, 24.9597855]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "桃鶯路 134 號",
+				"狀態": "安全",
+				"容納人數": "67"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.318327, 24.9840751]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "自強街 60 號",
+				"狀態": "安全",
+				"容納人數": "140"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.4223482, 23.4650156]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "介壽路二段 1233 巷 46-1 號",
+				"狀態": "安全",
+				"容納人數": "128"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2991575, 24.9302426]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "八德區",
+				"addr": "興豐路 2189 巷",
+				"狀態": "安全",
+				"容納人數": "251"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3249338, 24.9529779]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區田心里大觀路 118 號",
+				"狀態": "安全",
+				"容納人數": "675"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1934529, 25.0657882]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區大園里和平東路 89 號 1 樓",
+				"狀態": "安全",
+				"容納人數": "76"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.200378, 25.0626706]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區三石里 9 鄰三和路 5 號",
+				"狀態": "安全",
+				"容納人數": "355"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2582328, 25.0730407]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區五權里 14 鄰中正東路二段 541 號",
+				"狀態": "安全",
+				"容納人數": "70"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2309567, 25.0239436]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區北港里 9 鄰潮音二路 266 號",
+				"狀態": "安全",
+				"容納人數": "133"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1687905, 25.0752417]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區后厝里 12 鄰中華路 595 號",
+				"狀態": "安全",
+				"容納人數": "85"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.21154, 25.0757637]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區埔心街 82 之 4 號二樓",
+				"狀態": "安全",
+				"容納人數": "161"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2253218, 25.052419]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區海口里 4 鄰漁港路 15 號二樓",
+				"狀態": "安全",
+				"容納人數": "308"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2419478, 25.1080996]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區園科路 400 號",
+				"狀態": "安全",
+				"容納人數": "1006"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1714775, 25.0532834]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區中正東路 160 號",
+				"狀態": "安全",
+				"容納人數": "698"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2026707, 25.0590851]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區沙崙里 2 鄰海港路 2 巷 87 號",
+				"狀態": "安全",
+				"容納人數": "1381"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2389613, 25.1100051]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區竹圍里竹圍街 3 號",
+				"狀態": "安全",
+				"容納人數": "344"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.24428, 25.103682]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區沙崙里九鄰 75 之 2 號",
+				"狀態": "安全",
+				"容納人數": "329"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2225713, 25.1010943]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "大園區菓林里 12 鄰 41 號",
+				"狀態": "安全",
+				"容納人數": "883"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2597753, 25.0791383]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大園區",
+				"addr": "園科路、科二街交叉口",
+				"狀態": "安全",
+				"容納人數": "530"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.172516, 25.0551958]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "新峰里復復興路二段 758 巷 48 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3296685, 24.8309011]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "復興里復興路二段 275 巷 16 號",
+				"狀態": "安全",
+				"容納人數": "30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3104598, 24.8256578]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "福安里復興路一段 1130 號",
+				"狀態": "安全",
+				"容納人數": "45"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.289054, 24.8412348]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "福安里 24 鄰三層老街 30 號",
+				"狀態": "安全",
+				"容納人數": "45"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2958413, 24.8586102]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "美華里美山路一段 660 號",
+				"狀態": "安全",
+				"容納人數": "30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3006994, 24.8745077]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "福仁里仁愛路 11 號",
+				"狀態": "安全",
+				"容納人數": "45"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.4409723, 23.4665206]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "一心里民權東路 94 巷 29 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2912414, 24.8813572]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "一德里康莊路 251 號 3 樓",
+				"狀態": "安全",
+				"容納人數": "30"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2882146, 24.878269]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "瑞源里石園路 760 巷 120 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2525992, 24.8679204]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "員林里員林路 2 段 450 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2661168, 24.8827562]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "南興里永昌宮旁",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2650792, 24.9043483]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "桃園市大溪區埔頂街13號",
+				"狀態": "安全",
+				"容納人數": "60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2758858, 24.9016921]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "桃園市大溪區仁和七街159號",
+				"狀態": "安全",
+				"容納人數": "70"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2737231, 24.8975931]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "桃園市大溪區里仁善里仁德街19號",
+				"狀態": "安全",
+				"容納人數": "70"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2809408, 24.914145]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "瑞興里 8 鄰大鶯路 936 號",
+				"狀態": "安全",
+				"容納人數": "45"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3032533, 24.9194317]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "中新里大鶯路 1450 巷 26 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3168774, 24.9285522]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "僑愛里僑愛 1 街",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2937708, 24.9227524]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "月眉里 15 鄰月眉 105 號",
+				"狀態": "安全",
+				"容納人數": "350"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.295708, 24.891692]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "仁武里公園路 30 號 2 樓",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2840099, 24.90478]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "福仁里登龍路 19 號",
+				"狀態": "安全",
+				"容納人數": "550"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2868212, 24.884684]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "義和里安和路 38 號",
+				"狀態": "安全",
+				"容納人數": "300"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2819906, 24.8560856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "大溪區",
+				"addr": "義和里福山一路 3 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2633743, 24.8273299]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "元化路 182-2 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.227427, 24.9601041]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍江路 99 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2578304, 24.9315952]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "華祥一街 21 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2618577, 24.9481683]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "元化路 159 號",
+				"狀態": "安全",
+				"容納人數": "571"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2279671, 24.9598236]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "光華三街 10 號",
+				"狀態": "安全",
+				"容納人數": "68"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2578527, 24.9777985]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "新民路 223 號",
+				"狀態": "安全",
+				"容納人數": "79"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5102323, 25.140004]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "強國路 62 號",
+				"狀態": "安全",
+				"容納人數": "47"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2584757, 24.9679305]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍岡路三段 37 巷 92 弄 102 號",
+				"狀態": "安全",
+				"容納人數": "37"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2354132, 24.9396194]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "榮民南路 350 巷內",
+				"狀態": "安全",
+				"容納人數": "21"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2568304, 24.9491496]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "環北路 380 號",
+				"狀態": "安全",
+				"容納人數": "571"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2251168, 24.9657034]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中華路二段 369-1 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2361217, 24.9611615]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中北路二段 76 巷 10 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2252159, 24.9499161]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "民權路四段 546 號",
+				"狀態": "安全",
+				"容納人數": "42"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2020347, 25.0087636]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "林森路 90 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2258799, 24.9453912]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "義民路 70 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2163296, 24.9540964]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍岡路三段 742 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2433095, 24.9262174]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "新生路 598 巷 22 號",
+				"狀態": "安全",
+				"容納人數": "105"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2249285, 24.9705722]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "復華街 188 號",
+				"狀態": "安全",
+				"容納人數": "92"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2482174, 24.9729133]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "長春三路 2 號 1 樓",
+				"狀態": "安全",
+				"容納人數": "56"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2487204, 24.979702]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "南園二路 90 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2333325, 24.9720159]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍興路 701 巷 21 號",
+				"狀態": "安全",
+				"容納人數": "51"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2446514, 24.9455258]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "過嶺里雙福路 9 號",
+				"狀態": "安全",
+				"容納人數": "33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1767211, 24.9600529]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "芝芭里啟文路 175 號",
+				"狀態": "安全",
+				"容納人數": "34"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2035271, 24.9957211]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "月眉里 11 鄰月桃路 828 號",
+				"狀態": "安全",
+				"容納人數": "25"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1844323, 25.0103118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "山東路 1010 號",
+				"狀態": "安全",
+				"容納人數": "53"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1722655, 25.0159863]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "內厝里月眉路一段 2 號",
+				"狀態": "安全",
+				"容納人數": "159"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1796515, 24.9895246]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍岡路二段 232 號(龍崗國小內)",
+				"狀態": "安全",
+				"容納人數": "32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2299599, 24.9421332]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "台貿一街 100 號",
+				"狀態": "安全",
+				"容納人數": "39"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2560092, 24.9375468]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "榮民路 396 號",
+				"狀態": "安全",
+				"容納人數": "72"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2616131, 24.9617283]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "正大街 55 號",
+				"狀態": "安全",
+				"容納人數": "230"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.204457, 24.9592806]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "元生二街 126 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2538288, 24.975909]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "桃園市中壢區領航南路三段168號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2198432, 25.009307]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "普強里莒光路 2 側",
+				"狀態": "安全",
+				"容納人數": "2032"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2385947, 24.953279]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍岡路消防隊旁",
+				"狀態": "安全",
+				"容納人數": "584"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.5512515, 22.6341182]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "白馬街與王子二街",
+				"狀態": "安全",
+				"容納人數": "217"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2128914, 24.9611895]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "文化路以東、元生一街以北",
+				"狀態": "安全",
+				"容納人數": "535"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2530776, 24.9739582]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍福路與龍東路 445 巷",
+				"狀態": "安全",
+				"容納人數": "856"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2528842, 24.9346487]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍岡路三段",
+				"狀態": "安全",
+				"容納人數": "3443"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2376222, 24.9323476]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍岡路三段與龍岡路 262 巷",
+				"狀態": "安全",
+				"容納人數": "2500"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.230116, 24.9413324]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "華愛街 43 號對面",
+				"狀態": "安全",
+				"容納人數": "181"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2595658, 24.9521564]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "後興路一段 90 巷",
+				"狀態": "安全",
+				"容納人數": "59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2475672, 24.9421543]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "桃園市中壢區仁德四街96-1號",
+				"狀態": "安全",
+				"容納人數": "201"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2620584, 24.9527708]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "永福里社區.新街溪綠地",
+				"狀態": "安全",
+				"容納人數": "509"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2111148, 24.98345991]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "民族路 5 段.文中一南側",
+				"狀態": "安全",
+				"容納人數": "230"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1642157, 24.9613347]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍昌里隆昌街以南",
+				"狀態": "安全",
+				"容納人數": "203"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [105.22614, 29.24003]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "華勛街 363 巷",
+				"狀態": "安全",
+				"容納人數": "981"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2600009, 24.9463543]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "仁美新村旁",
+				"狀態": "安全",
+				"容納人數": "205"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.265113, 24.952278]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "內壢文化路",
+				"狀態": "安全",
+				"容納人數": "1700"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2527146, 24.9758231]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "自強國中旁，強國路以北",
+				"狀態": "安全",
+				"容納人數": "515"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.260466, 24.9687489]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍江路旁",
+				"狀態": "安全",
+				"容納人數": "950"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5405891, 25.0572357]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍興國中旁",
+				"狀態": "安全",
+				"容納人數": "206"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2360801, 24.9379609]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "振興里龍陵路以西",
+				"狀態": "安全",
+				"容納人數": "225"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2308579, 24.9362218]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "復華里內壢國中旁",
+				"狀態": "安全",
+				"容納人數": "844"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.248853, 24.971042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "內定里吉林北路以東",
+				"狀態": "安全",
+				"容納人數": "3275"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2497407, 24.9890241]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中園路",
+				"狀態": "安全",
+				"容納人數": "1401"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2359754, 24.9716798]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中園路 114 巷",
+				"狀態": "安全",
+				"容納人數": "296"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.23663, 24.9667799]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中央里公七停車場上",
+				"狀態": "安全",
+				"容納人數": "600"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2262953, 24.9564466]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "五權里正光街",
+				"狀態": "安全",
+				"容納人數": "569"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2035212, 24.9596614]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "文化路",
+				"狀態": "安全",
+				"容納人數": "1302"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.4400932, 23.5013229]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "延平路普義路橋旁",
+				"狀態": "安全",
+				"容納人數": "60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2252974, 24.9599966]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "忠工路 341-1 地號",
+				"狀態": "安全",
+				"容納人數": "305"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.4837676, 23.9564252]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "溪州街旁",
+				"狀態": "安全",
+				"容納人數": "300"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.535545, 25.002924]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中山里榮民路以西",
+				"狀態": "安全",
+				"容納人數": "1230"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2613921, 24.9608992]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "普慶路旁",
+				"狀態": "安全",
+				"容納人數": "191"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.246818, 24.9492107]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍江路國軍副食品後",
+				"狀態": "安全",
+				"容納人數": "208"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5405891, 25.0572357]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍岡路 2 段 306 巷",
+				"狀態": "安全",
+				"容納人數": "198"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2303639, 24.9412514]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "忠孝路元生二街旁",
+				"狀態": "安全",
+				"容納人數": "1015"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2527146, 24.9758231]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "新興里林森國小旁",
+				"狀態": "安全",
+				"容納人數": "904"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2264455, 24.9453907]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "篤行里永福路以北",
+				"狀態": "安全",
+				"容納人數": "153"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2618215, 24.9581273]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中山東路 3 段 429 巷 87 弄旁",
+				"狀態": "安全",
+				"容納人數": "213"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2529348, 24.9388576]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "月眉里 7 鄰 95 號附近",
+				"狀態": "安全",
+				"容納人數": "1200"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1853557, 25.0007313]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "福德里內壢高中旁",
+				"狀態": "安全",
+				"容納人數": "547"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2557409, 24.9780162]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "六合路九合二路口",
+				"狀態": "安全",
+				"容納人數": "370"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.3169581, 22.6319797]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中華路 2 段",
+				"狀態": "安全",
+				"容納人數": "434"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5052712, 25.0287057]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "仁祥里華勛街",
+				"狀態": "安全",
+				"容納人數": "208"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2604963, 24.9485437]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "元化路元生國小旁",
+				"狀態": "安全",
+				"容納人數": "885"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2512073, 24.9744847]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍岡圓環旁",
+				"狀態": "安全",
+				"容納人數": "274"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2439933, 24.9260994]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中央里中美路",
+				"狀態": "安全",
+				"容納人數": "5000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2258056, 24.9586338]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "天晟醫院後方",
+				"狀態": "安全",
+				"容納人數": "66"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2290243, 24.9626431]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "義民路明德路口",
+				"狀態": "安全",
+				"容納人數": "573"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2153278, 24.9528742]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "松勇路與松信路口",
+				"狀態": "安全",
+				"容納人數": "380"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.571983, 25.044874]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "元生公園對面",
+				"狀態": "安全",
+				"容納人數": "440"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2530278, 24.9741139]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "西園路",
+				"狀態": "安全",
+				"容納人數": "1890"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2329724, 24.9720854]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "東明橋-健行橋",
+				"狀態": "安全",
+				"容納人數": "213"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2266583, 24.9515403]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中山東路-中北路",
+				"狀態": "安全",
+				"容納人數": "481"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [113.18245, 22.62301]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "紫雲橋-平鎮橋(含步道)",
+				"狀態": "安全",
+				"容納人數": "183"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.9296022]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "富裕街旁",
+				"狀態": "安全",
+				"容納人數": "99"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2582219, 24.9690349]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "光明里中壢高商旁",
+				"狀態": "安全",
+				"容納人數": "6328"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2145456, 24.9620061]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "榮民南路消防隊旁",
+				"狀態": "安全",
+				"容納人數": "188"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2568029, 24.946929]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中原大學運動場旁",
+				"狀態": "安全",
+				"容納人數": "137"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2431337, 24.9610099]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "文化里文化路",
+				"狀態": "安全",
+				"容納人數": "2281"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.7335711, 25.154026]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "義民路明德路口",
+				"狀態": "安全",
+				"容納人數": "573"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2153278, 24.9528742]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "松勇路與松信路口",
+				"狀態": "安全",
+				"容納人數": "380"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.571983, 25.044874]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "元生公園對面",
+				"狀態": "安全",
+				"容納人數": "440"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2530278, 24.9741139]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "西園路",
+				"狀態": "安全",
+				"容納人數": "1890"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2326177, 24.9717875]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "東明橋-健行橋",
+				"狀態": "安全",
+				"容納人數": "213"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2266583, 24.9515403]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "中山東路-中北路",
+				"狀態": "安全",
+				"容納人數": "481"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [113.18245, 22.62301]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "紫雲橋-平鎮橋(含步道)",
+				"狀態": "安全",
+				"容納人數": "183"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.9296022]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "富裕街旁",
+				"狀態": "安全",
+				"容納人數": "99"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2582219, 24.9690349]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "仁慈路 70 巷內",
+				"狀態": "安全",
+				"容納人數": "210"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.3601615, 22.6703066]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "華祥三街與華安路",
+				"狀態": "安全",
+				"容納人數": "119"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2621762, 24.9498966]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "吉利三街及吉利十一街",
+				"狀態": "安全",
+				"容納人數": "1640"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2521245, 24.9818436]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍岡三段 37 巷",
+				"狀態": "安全",
+				"容納人數": "106"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2321226, 24.9390669]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "松平路與高鐵南路二段",
+				"狀態": "安全",
+				"容納人數": "86"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5664587, 25.0304439]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "中壢區",
+				"addr": "龍岡三段 37 巷",
+				"狀態": "安全",
+				"容納人數": "105"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2321226, 24.9390669]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "北華里振平街 153 號",
+				"狀態": "安全",
+				"容納人數": "155"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2206706, 24.9424973]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "廣達里廣成街 10 號",
+				"狀態": "安全",
+				"容納人數": "104"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2088427, 24.9566406]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "東勢里金陵路 5 段 55 號",
+				"狀態": "安全",
+				"容納人數": "110"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2313254, 24.9103443]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "平南里開封街 88 號",
+				"狀態": "安全",
+				"容納人數": "57"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2042557, 24.9111043]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "福林里山子頂 6 號",
+				"狀態": "安全",
+				"容納人數": "75"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2192694, 24.902413]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "北興里金陵路 2 段 353 號",
+				"狀態": "安全",
+				"容納人數": "60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2246957, 24.9374512]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "東社里圳南路 50 巷 23 號",
+				"狀態": "安全",
+				"容納人數": "105"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2449266, 24.9224473]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "高雙里高雙路 80 號",
+				"狀態": "安全",
+				"容納人數": "122"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1890124, 24.9550918]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "北貴里大仁街 46 號",
+				"狀態": "安全",
+				"容納人數": "70"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2252771, 24.928176]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "宋屋里廣泰路 85 號",
+				"狀態": "安全",
+				"容納人數": "123"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2044529, 24.9455788]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "莊敬里自強街 100 號",
+				"狀態": "安全",
+				"容納人數": "55"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2148874, 24.9041552]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "復興里復興街 55 號",
+				"狀態": "安全",
+				"容納人數": "63"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2049137, 24.9543327]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "湧光里湧光路 110 號 2 樓",
+				"狀態": "安全",
+				"容納人數": "70"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.209668, 24.896762]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "義興里義興街 80 號",
+				"狀態": "安全",
+				"容納人數": "80"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2093191, 24.9497783]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "廣仁里新光路 65 巷 50 號",
+				"狀態": "安全",
+				"容納人數": "90"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2062305, 24.9394859]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "鎮興里中興路平鎮段 229 號",
+				"狀態": "安全",
+				"容納人數": "90"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1942469, 24.905638]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "福林里東豐路 100 巷 16 號",
+				"狀態": "安全",
+				"容納人數": "81"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2136371, 24.900031]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "復興里育達路二段 94 號",
+				"狀態": "安全",
+				"容納人數": "79"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2057094, 24.9510125]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "湧安里麻園街 2 號",
+				"狀態": "安全",
+				"容納人數": "93"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2023099, 24.8928746]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "新安里平東路 203 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2496304, 24.9160222]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "北勢里和平路 52 號",
+				"狀態": "安全",
+				"容納人數": "57"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.457798, 23.4754143]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "福林里東豐路 326 號",
+				"狀態": "安全",
+				"容納人數": "73"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2192394, 24.901819]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "平鎮區",
+				"addr": "新勢里延平路一段 162 號",
+				"狀態": "安全",
+				"容納人數": "109"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2163465, 24.9508172]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區中正五街 315 號",
+				"狀態": "安全",
+				"容納人數": "146"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3033216, 25.0010255]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區莊敬路 1 段 71 號",
+				"狀態": "安全",
+				"容納人數": "35"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2570922, 24.9717312]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區縣府路 7 號",
+				"狀態": "安全",
+				"容納人數": "149"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3016813, 24.9940217]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區三元街 289 號 2 樓",
+				"狀態": "安全",
+				"容納人數": "183"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3232396, 25.0085191]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區中山東路 128 號",
+				"狀態": "安全",
+				"容納人數": "5"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3207338, 24.9976481]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區大原路 31 號",
+				"狀態": "安全",
+				"容納人數": "130"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3201619, 24.977754]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區國際路一段 575 號",
+				"狀態": "安全",
+				"容納人數": "39"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2888542, 24.9748875]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區國際路一段 687 巷 61 號",
+				"狀態": "安全",
+				"容納人數": "36"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2892145, 24.9777312]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區中平路 118 號",
+				"狀態": "安全",
+				"容納人數": "306"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2928435, 24.9866148]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區民族路 110 號 (3、4 樓)",
+				"狀態": "安全",
+				"容納人數": "107"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3091222, 24.9924515]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區新埔六街 140 號 2 樓",
+				"狀態": "安全",
+				"容納人數": "96"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3006927, 25.0177737]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區永安北路 500 號",
+				"狀態": "安全",
+				"容納人數": "150"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2925425, 25.0194769]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區富國路 681 巷 22 號",
+				"狀態": "安全",
+				"容納人數": "52"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2810166, 25.0213724]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區峨嵋二街 26 號",
+				"狀態": "安全",
+				"容納人數": "93"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3009798, 24.9936281]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區信光路 55 號",
+				"狀態": "安全",
+				"容納人數": "84"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3068135, 25.0057536]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區民權路 32 號 7 樓",
+				"狀態": "安全",
+				"容納人數": "358"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3108221, 24.9930899]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區鎮撫街 41 號",
+				"狀態": "安全",
+				"容納人數": "24"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3144654, 24.9981991]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區三民路三段 268 號",
+				"狀態": "安全",
+				"容納人數": "90"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.306407, 24.990875]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區建成街 88 號(一、二樓)",
+				"狀態": "安全",
+				"容納人數": "199"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.315512, 24.9870331]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區至善街 133 號",
+				"狀態": "安全",
+				"容納人數": "93"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.312565, 25.0216194]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區新埔七街 169 巷 13 號",
+				"狀態": "安全",
+				"容納人數": "59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2998944, 25.0217578]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區朝陽街 63 號",
+				"狀態": "安全",
+				"容納人數": "153"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3129333, 24.9979292]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區介壽路 199 號",
+				"狀態": "安全",
+				"容納人數": "224"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3080576, 24.9820709]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區陽明三街 33 號",
+				"狀態": "安全",
+				"容納人數": "116"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3070234, 24.979651]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區南通路 65 號",
+				"狀態": "安全",
+				"容納人數": "71"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3055322, 25.0200494]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區興一街 65 巷 50 號",
+				"狀態": "安全",
+				"容納人數": "65"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3161394, 25.0142131]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區東勇北路 20 號",
+				"狀態": "安全",
+				"容納人數": "36"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3066766, 24.973861]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區國豐二街 6 號",
+				"狀態": "安全",
+				"容納人數": "96"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2808714, 24.9895262]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區民有三街 501 號",
+				"狀態": "安全",
+				"容納人數": "64"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3137873, 25.0126583]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區大有路 220 號",
+				"狀態": "安全",
+				"容納人數": "736"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3202341, 25.0096184]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區大有路 215 號",
+				"狀態": "安全",
+				"容納人數": "1083"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3191452, 25.0094715]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區大業路一段 135 號",
+				"狀態": "安全",
+				"容納人數": "467"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3160189, 25.0067122]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區國際路一段 1070 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2896827, 24.9862844]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區永安路 1054 號",
+				"狀態": "安全",
+				"容納人數": "584"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2871438, 25.0092683]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區文中路 122 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2908267, 24.9963811]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區文中路 120 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2921409, 24.9961482]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區民生路 729 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3079763, 25.0104909]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區正康三街 139 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3071438, 25.0074277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區永順街 100 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2971239, 25.008715]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區同德十一街 48 號",
+				"狀態": "安全",
+				"容納人數": "1014"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2981712, 25.0214926]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區同德六街 175 號",
+				"狀態": "安全",
+				"容納人數": "747"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.295937, 25.0147821]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區南平路 487 號",
+				"狀態": "安全",
+				"容納人數": "1208"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2932689, 25.0158097]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區三民路三段 22 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3070423, 24.9983538]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區莒光街 15 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3043617, 24.9953096]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區大有路 789 號",
+				"狀態": "安全",
+				"容納人數": "617"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3153357, 25.0184827]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區東國街 14 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3152904, 24.9944936]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區中山路 889 號",
+				"狀態": "安全",
+				"容納人數": "1548"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2857354, 24.9876874]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區自強路 80 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3178189, 24.9993155]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區中山東路 124 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3196371, 24.997318]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區復興路 303 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3055056, 24.9891301]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區昆明路 95 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3152425, 24.9835199]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區介新街 20 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3061854, 24.9787769]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區延平路 265 號",
+				"狀態": "安全",
+				"容納人數": "496"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2265251, 24.9611011]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區成功路三段 38 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3275197, 24.9994595]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區民權路 67 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.310755, 24.9920468]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區莒光街 2 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3050576, 24.9955321]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區莊一街 107 號",
+				"狀態": "安全",
+				"容納人數": "407"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2926002, 25.0212991]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區德壽街 8 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3031997, 24.9803596]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區新埔六街 2 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3037613, 25.0122424]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區中正路 835 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3016355, 25.0094401]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區經國路 208 巷 36 號",
+				"狀態": "安全",
+				"容納人數": "881"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3063861, 25.0181939]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區春日路 1080 號",
+				"狀態": "安全",
+				"容納人數": "543"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3086452, 25.0197245]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區大興路 222 號",
+				"狀態": "安全",
+				"容納人數": "1026"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3137566, 25.0161044]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區經國路 276 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3040055, 25.0217263]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區延平路 326 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2254112, 24.9604681]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃園區龍泉二街 36 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.270762, 24.9808929]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "力行路、文中二路交叉口",
+				"狀態": "安全",
+				"容納人數": "390"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2898237, 24.9983968]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "力行路、正光路交叉口",
+				"狀態": "安全",
+				"容納人數": "1080"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2952611, 24.9982911]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "桃鶯路、大林路口(桃鶯路 89 號)",
+				"狀態": "安全",
+				"容納人數": "481"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.318134, 24.9877301]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "慈文路、文中二路交叉口",
+				"狀態": "安全",
+				"容納人數": "2300"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2898418, 25.0007075]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "桃園區",
+				"addr": "長沙街十一號",
+				"狀態": "安全",
+				"容納人數": "4200"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.159024, 24.9105141]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區長祥路 1098 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1179286, 24.9597105]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區中山西路二段 780 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0595326, 24.9831352]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區東興路二段 1100 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0446521, 25.0076028]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區大坡里國校路 1 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0421102, 24.9593212]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區永安里保生路 55 號\n桃園市新屋區中山西路三段 96 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0278546, 24.9883033]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區永興里永慶一路 273 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0301168, 25.0042562]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區石牌里 3 鄰東興路二段568 號",
+				"狀態": "安全",
+				"容納人數": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0523893, 25.0028964]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區石磊里三民路二段 276 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0793911, 24.9931067]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區赤欄里 8 鄰中山西路 2 段\n280 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0710597, 24.9798388]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區東明里 4 鄰 5 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0693969, 25.0310702]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區社子里 10 鄰社福路 235 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0816765, 24.956797]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市後庄里 5 鄰東福路二段 515 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0197799, 24.9510841]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區後湖里 6 鄰三民路一段 68 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0961384, 24.9771641]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區埔頂里 2 鄰 34 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1051594, 24.9554341]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區望間里 4 鄰 25 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0535762, 24.9460316]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區深圳里 4 鄰 20-5 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0077058, 24.956586]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區清華里中山東路一段 177\n巷 229 號 4 樓",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1172743, 24.9703526]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區笨港里 2 鄰榕樹下 10-1 號\n桃園市新屋區笨港里 2 鄰笨子港 29-5 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.020846, 24.978099]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區蚵間里東福路三段 423 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0000415, 24.9457514]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區中山路 370 號\n桃園市新屋區中正路 196 號\n桃園市新屋區中興路 111 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1041169, 24.9728844]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區中山路 267 號 1 號\n桃園市新屋區中正路 196 號\n桃園市新屋區中興路 111 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1053171, 24.9724481]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區槺榔里 8 鄰 9 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0535762, 24.9726537]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "新屋區",
+				"addr": "桃園市新屋區中山東路二段 668 巷 48 號\n桃園市新屋區校前路 72 號",
+				"狀態": "安全",
+				"容納人數": "待評估"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1426301, 24.9625529]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "楊梅區",
+				"addr": "楊梅區高獅路 10 巷 10 之 1 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1482694, 24.921091]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "楊梅區",
+				"addr": "楊梅區瑞原里民豐路 123 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1203154, 24.9328671]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "楊梅區",
+				"addr": "楊梅區員本路 468 巷 25 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1044469, 24.9388963]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "楊梅區",
+				"addr": "楊梅區新明街 347 巷 2 弄 1 號二樓",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.074898, 24.9321555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "楊梅區",
+				"addr": "楊梅區金龍里中興路 236-1 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1864277, 24.914424]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "楊梅區",
+				"addr": "楊梅區豐野里信義街 169 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0828816, 24.9361977]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "楊梅區",
+				"addr": "楊梅區楊新北路 188 巷 28 號 6 樓",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1533917, 24.9117605]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "楊梅區",
+				"addr": "楊梅區上田里和平路 143 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1274627, 24.9383211]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "黃唐里成功路 190 巷 10 號",
+				"狀態": "安全",
+				"容納人數": "150"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2279982, 24.8752931]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "高平里龍源路 11 號",
+				"狀態": "安全",
+				"容納人數": "170"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2065369, 24.8267527]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "九龍里五福街 330 號",
+				"狀態": "安全",
+				"容納人數": "140"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2255095, 24.8641792]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "三林里三角林 37 號",
+				"狀態": "安全",
+				"容納人數": "80"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.228514, 24.835426]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "上林里金龍路 210 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2140793, 24.8537823]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "聖德里聖亭路八德段 451 巷 140 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1951038, 24.8820866]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "烏林里中豐路 401 號",
+				"狀態": "安全",
+				"容納人數": "100"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.209735, 24.8811007]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "中山里華南路 1 號旁",
+				"狀態": "安全",
+				"容納人數": "60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.7446132, 24.6297256]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "高原里中原路 3 段 135 號",
+				"狀態": "安全",
+				"容納人數": "140"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1920408, 24.8265076]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "大平里大平 24-1 號",
+				"狀態": "安全",
+				"容納人數": "230"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2426057, 24.8225975]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "三和里龍新路竹窩段 430 號",
+				"狀態": "安全",
+				"容納人數": "140"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1882189, 24.8537792]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "中興里中興路 240 巷 38 號",
+				"狀態": "安全",
+				"容納人數": "130"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2347724, 24.8756266]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "八德里梅龍路 2 號",
+				"狀態": "安全",
+				"容納人數": "150"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2019584, 24.8734995]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "龍潭里南龍路 13 號",
+				"狀態": "安全",
+				"容納人數": "120"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2135145, 24.8638743]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "龍華路 526 巷 55-1 號",
+				"狀態": "安全",
+				"容納人數": "130"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2166917, 24.8543572]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "忠勇街 97 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3042363, 24.9604261]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "上華里大順路 209 號",
+				"狀態": "安全",
+				"容納人數": "110"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2178753, 24.8507941]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "富林里建國路 278 號",
+				"狀態": "安全",
+				"容納人數": "60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.231538, 24.8468255]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "凌雲里干城路 19 巷 26 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2069458, 24.8687908]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "凌雲里干城路 19 巷 28 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2069458, 24.8687908]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "永興里健行路 11 號",
+				"狀態": "安全",
+				"容納人數": "50"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2215445, 24.8666729]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "湧光路 533 號",
+				"狀態": "安全",
+				"容納人數": "60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.201885, 24.8891288]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "武漢路 100 號",
+				"狀態": "安全",
+				"容納人數": "60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2342659, 24.8712085]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "干城路 19 巷 30 號",
+				"狀態": "安全",
+				"容納人數": "170"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2067629, 24.8688055]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "南龍路 13 號",
+				"狀態": "安全",
+				"容納人數": "360"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2135145, 24.8638743]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "神龍路 155 號",
+				"狀態": "安全",
+				"容納人數": "560"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2129702, 24.8612659]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "文化路 188 號",
+				"狀態": "安全",
+				"容納人數": "130"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.4496058, 23.4801238]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "中豐路上林段 418 號",
+				"狀態": "安全",
+				"容納人數": "150"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2023994, 24.8589416]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "干城路 19 巷 30 號前",
+				"狀態": "安全",
+				"容納人數": "200"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2068857, 24.8685199]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "公園路 67 號",
+				"狀態": "安全",
+				"容納人數": "5000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.2054032, 22.9951365]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "武漢路 100 號",
+				"狀態": "安全",
+				"容納人數": "800"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2342659, 24.8712085]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "神龍路 155 號",
+				"狀態": "安全",
+				"容納人數": "1000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2129702, 24.8612659]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "神龍路 346 號",
+				"狀態": "安全",
+				"容納人數": "800"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.215179, 24.8572912]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "文化路 188 號",
+				"狀態": "安全",
+				"容納人數": "1000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.4496058, 23.4801238]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "永昌路 51 巷 85 號",
+				"狀態": "安全",
+				"容納人數": "150"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2485621, 24.8362459]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "中豐路 401 號",
+				"狀態": "安全",
+				"容納人數": "500"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.209735, 24.8811007]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "桃園市龍潭區高原路568號",
+				"狀態": "安全",
+				"容納人數": "1000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1939226, 24.8302044]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "成功路 190 巷 227 號",
+				"狀態": "安全",
+				"容納人數": "1200"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2319237, 24.8788919]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "聖亭路八德段 451 巷 140 號",
+				"狀態": "安全",
+				"容納人數": "800"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1951038, 24.8820866]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "龍新路三和段 1356 號",
+				"狀態": "安全",
+				"容納人數": "400"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1676327, 24.8478446]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龍潭區",
+				"addr": "深窩子 16 之 1 號",
+				"狀態": "安全",
+				"容納人數": "800"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2118374, 24.8255949]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區新路里中山街 26 號",
+				"狀態": "安全",
+				"容納人數": "128"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.337877, 24.9925323]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區大華里文化七路 118 巷 7 號",
+				"狀態": "安全",
+				"容納人數": "139"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3662689, 25.0508328]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區大同里明德路 203 巷 10 號",
+				"狀態": "安全",
+				"容納人數": "107"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3422725, 24.9912429]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區幸福里幸福一街 38 號 1 號",
+				"狀態": "安全",
+				"容納人數": "66"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3343712, 24.988225]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區南上里民生北路一段 356 巷 386-\n1 號",
+				"狀態": "安全",
+				"容納人數": "38"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3013067, 25.0404332]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區明興街 36 號",
+				"狀態": "安全",
+				"容納人數": "114"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3303499, 24.9862567]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區嶺頂里萬壽路二段 6 巷 61 號",
+				"狀態": "安全",
+				"容納人數": "55"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3646832, 25.0030466]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區大崗里忠義路二段 491 號",
+				"狀態": "安全",
+				"容納人數": "218"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3587577, 25.0517575]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區精忠里光峰路 141 號",
+				"狀態": "安全",
+				"容納人數": "92"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3407219, 24.998797]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區兔坑里村大同路 918 號",
+				"狀態": "安全",
+				"容納人數": "95"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3581972, 24.9879762]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區忠義路二段 638 巷 5 號",
+				"狀態": "安全",
+				"容納人數": "88"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.358407, 25.0572356]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區文昌五街 99 號",
+				"狀態": "安全",
+				"容納人數": "157"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3705571, 25.0568008]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區樂善里樂安街 7-1 號",
+				"狀態": "安全",
+				"容納人數": "33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3813229, 25.0524394]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區舊路里振興路 1278 巷 29 號-振天宮",
+				"狀態": "安全",
+				"容納人數": "33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3775723, 25.0291852]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區龜山里中興路一段 50 號",
+				"狀態": "安全",
+				"容納人數": "57"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3386789, 24.9941548]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區山福里中興路 152 號",
+				"狀態": "安全",
+				"容納人數": "97"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3318836, 24.9887934]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區迴龍里宏慶街 34 巷 48-1 號",
+				"狀態": "安全",
+				"容納人數": "75"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4120899, 25.0192033]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區龍華里萬壽路一段 422 巷 22 弄\n43-1 號",
+				"狀態": "安全",
+				"容納人數": "120"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4007703, 25.0177656]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區長庚里長庚一街 80 號 B1",
+				"狀態": "安全",
+				"容納人數": "369"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.384456, 25.058061]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區樂善里 11 鄰樂安街 71 號",
+				"狀態": "安全",
+				"容納人數": "0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3827215, 25.0520377]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區文化七路 116 號",
+				"狀態": "安全",
+				"容納人數": "225"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3648395, 25.0501712]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區文昌五街 95 號",
+				"狀態": "安全",
+				"容納人數": "0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3716291, 25.0582097]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區頂興路 2 號",
+				"狀態": "安全",
+				"容納人數": "0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3276375, 24.9918697]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區萬壽路一段 168 號",
+				"狀態": "安全",
+				"容納人數": "128"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4050795, 25.0194748]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區頂興路 115 巷 20 號",
+				"狀態": "安全",
+				"容納人數": "157"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.330685, 24.988856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區中興路 100 巷 20 號",
+				"狀態": "安全",
+				"容納人數": "259"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3317914, 24.9879292]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區萬壽路二段 933 巷 14 號",
+				"狀態": "安全",
+				"容納人數": "88"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3388752, 24.9940456]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區自強西路 66 號",
+				"狀態": "安全",
+				"容納人數": "65"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.339074, 24.9972201]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "龜山區永和街 12 號",
+				"狀態": "安全",
+				"容納人數": "48"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3362938, 24.9955465]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "龜山區",
+				"addr": "文化七路、文華國小旁",
+				"狀態": "安全",
+				"容納人數": "0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3651952, 25.0508289]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區南崁里南崁路 150 號(3F)",
+				"狀態": "安全",
+				"容納人數": "190"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2951993, 25.0469905]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區瓦窯里仁愛路一段 2 號 (B1)",
+				"狀態": "安全",
+				"容納人數": "44"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2934588, 25.0507131]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區上竹里博愛街 22 號(2F)",
+				"狀態": "安全",
+				"容納人數": "33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2614295, 25.0243953]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區大竹里南竹路五段 210 巷\n1 弄 1 號(2F)",
+				"狀態": "安全",
+				"容納人數": "33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2605216, 25.0255233]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區坑口里南山北路二段 378號",
+				"狀態": "安全",
+				"容納人數": "38"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2749531, 25.1055557]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區海湖里海湖東路 217 號\n(3F)",
+				"狀態": "安全",
+				"容納人數": "27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2969674, 25.0784359]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區富竹里富竹街 109 號(3F)",
+				"狀態": "安全",
+				"容納人數": "27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.264192, 25.0306837]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區新莊里中油街 373 號(1、\n2F)",
+				"狀態": "安全",
+				"容納人數": "39"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2339171, 25.0306301]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區營盤里中山路 108 巷 21 號\n(3F)",
+				"狀態": "安全",
+				"容納人數": "25"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2993467, 25.0565358]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區南崁里南崁路 152 號(2F)",
+				"狀態": "安全",
+				"容納人數": "83"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.294755, 25.0472557]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區宏竹里宏華街 10 號(1、\n2F)",
+				"狀態": "安全",
+				"容納人數": "64"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2555278, 25.0416327]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區內厝里 8 鄰南山路二段\n394 巷 67 號(1F)",
+				"狀態": "安全",
+				"容納人數": "193"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.287584, 25.0715423]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區南榮里桃園街 9 號(2F)",
+				"狀態": "安全",
+				"容納人數": "44"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2934318, 25.0427929]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區山腳里 18 鄰山外路 117 號\n(3F)",
+				"狀態": "安全",
+				"容納人數": "148"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2881764, 25.0829057]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區外社里 12 鄰山林路二段\n471 號(1、2、4F)",
+				"狀態": "安全",
+				"容納人數": "87"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.305478, 25.0826306]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區五福里 5 鄰福祿 5 街 18 號\n(4F)",
+				"狀態": "安全",
+				"容納人數": "32"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2958501, 25.0535806]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區蘆竹里南青路 850 巷 50 號\n(1F)",
+				"狀態": "安全",
+				"容納人數": "178"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2625919, 25.0527783]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區錦興里 18 鄰光明路 2 段\n33 號(1、2F)",
+				"狀態": "安全",
+				"容納人數": "95"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.287617, 25.0457938]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "蘆竹區",
+				"addr": "桃園市蘆竹區中興里興仁路 330-1 號\n(1F)",
+				"狀態": "安全",
+				"容納人數": "56"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.261883, 25.0142504]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "觀音區福山路二段 403 巷 6 號",
+				"狀態": "安全",
+				"容納人數": "151"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1544053, 25.0183814]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "觀音區觀新路 56 號",
+				"狀態": "安全",
+				"容納人數": "25"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.083837, 25.0281681]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "上大里 8 鄰大湖路一段 510 號",
+				"狀態": "安全",
+				"容納人數": "55"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1475466, 24.9781094]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "藍埔里新華路一段 711 號",
+				"狀態": "安全",
+				"容納人數": "35"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.116643, 24.9968693]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "塔腳里 4 鄰塔腳路 116 號",
+				"狀態": "安全",
+				"容納人數": "35"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1576465, 25.048703]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "金湖里 6 鄰金橋路育仁段 550 號",
+				"狀態": "安全",
+				"容納人數": "75"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1075688, 25.0173929]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "廣福里福山路二段 403 巷 6 號",
+				"狀態": "安全",
+				"容納人數": "230"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1544053, 25.0183814]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "325桃園市龍潭區龍新路三和段1016巷19號",
+				"狀態": "安全",
+				"容納人數": "74"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1756151, 24.8503378]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "觀音區 8 鄰大湖路一段 510 號",
+				"狀態": "安全",
+				"容納人數": "56"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1475466, 24.9781094]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "觀音區新富路一段 595 號",
+				"狀態": "安全",
+				"容納人數": "123"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1379111, 25.0036309]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "觀音區大堀里新華路二段 72 號",
+				"狀態": "安全",
+				"容納人數": "145"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1268472, 25.0032043]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "觀音區大潭里 16 鄰保生三街 61 號",
+				"狀態": "安全",
+				"容納人數": "161"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0572934, 25.0244948]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "觀音區白玉里 5 鄰玉林路一段 180 號",
+				"狀態": "安全",
+				"容納人數": "161"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0853033, 25.0395862]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "武威里 4 鄰武威一路 10 號",
+				"狀態": "安全",
+				"容納人數": "121"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0733063, 25.0280376]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "觀音區保生里 11 鄰保成路 32 號",
+				"狀態": "安全",
+				"容納人數": "122"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0559849, 25.0157507]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "觀音區保障二路 10 鄰 562 號",
+				"狀態": "安全",
+				"容納人數": "123"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1525136, 25.0597777]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"dist": "觀音區",
+				"addr": "觀音區草漯里 1 鄰忠孝路 82 號",
+				"狀態": "安全",
+				"容納人數": "16"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.142512, 25.0499974]
+			}
+		}
+	]
+}

@@ -75,7 +75,7 @@
 		{
 			"name": "收藏組件",
 			"index": "favorites",
-			"components": [],
+			"components": ["1000","1003","1004","1001","1172","1002","1173","1174","175"],
 			"icon": "favorite"
 		},
 		{

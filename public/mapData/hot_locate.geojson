@@ -1,0 +1,2045 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "居善醫院",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.166064,
+                    25.058334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "中華路 68 巷，119\n號，138 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.235901,
+                    23.0020051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "橫湳路 271 號(連勝停車場)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2098916,
+                    25.0589974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區內海里",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1853557,
+                    25.0805073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "竹圍國中",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.238563,
+                    25.109708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區沙崙里\n25k 附近",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2225713,
+                    25.1010943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區南港里\n9 鄰大觀路 566 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1769053,
+                    25.0628081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區國際路\n二段與竹圍街口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2223168,
+                    25.0853296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區北港里\n13 鄰潮音二路 50 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1717599,
+                    25.078735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區三塊石 1-8 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2545442,
+                    25.0745853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "大園區溪海里 11 鄰\n30 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1882189,
+                    25.0452747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區忠孝一街 81 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.199323,
+                    25.0667563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區中正東路 840 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.222383,
+                    25.0546694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區國際路三段 581 號(台 15\n線)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.241941,
+                    25.1079229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區大園里 13 鄰文化街 52 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1977166,
+                    25.0647892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區三民路\n二段 198 號(台 4 線)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2553119,
+                    25.0849659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區中華路 298 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2051809,
+                    25.0710208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "桃園市大園區竹圍街 45-12 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.242968,
+                    25.1043534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "仁德路與和平西路口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1975817,
+                    25.0578556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "中正東路三段五權農會前淹水",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.227917,
+                    25.0132942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "埔心里 27 鄰中正東\n路一段 840 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2331761,
+                    25.03488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "大園區",
+                "addr": "漁港路 236 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3223568,
+                    22.5810116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區文化路 130 巷\n8 弄 11 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2544826,
+                    24.9741497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區榮民南路 231\n巷(亞運保齡球館)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2610468,
+                    24.9537949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區環北路 536 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.228303,
+                    24.9650725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "環北路 546 號(全國\n電子)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2285287,
+                    24.9647568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區長春路與自強\n一路口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2444483,
+                    24.9763056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區自強三路(亞\n智科技)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2425827,
+                    24.9682175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區中華路普忠路",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2414597,
+                    24.9660178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區大仁街實踐路\n80 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2415321,
+                    24.9558699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區幸福街 169 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2362335,
+                    24.9520171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區榮民南路、榮\n民南路 27 巷口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2587293,
+                    24.9562993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區晉元路 337\n巷 75 弄 5 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2653525,
+                    24.9523232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區仁美 9390 號 (亞運保齡球館)(併中壢區榮民南路 231\n巷)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2610468,
+                    24.9537949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區游泳路龍岡路\n三段口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2397846,
+                    24.9301408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區龍岡路\n三段 1 號至 7 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2338633,
+                    24.9360393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區崁頂路 1507\n巷口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2651171,
+                    24.9541498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區高鐵北路一段\n與青心路口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2155839,
+                    25.0152156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區高鐵南北路與\n青埔路交叉口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2136329,
+                    25.0104802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區龍慈路與後興\n路口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.242736,
+                    24.941127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區新明路 6 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2145507,
+                    24.9567749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區內厝路高鐵橋下涵洞[桃園\n市中壢區內厝里]",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1903071,
+                    24.9895476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區民權路\n二段及環北路口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2163116,
+                    24.966886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區新中北路 469 巷與普忠路口\n處",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2449568,
+                    24.958045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區實踐路及中北\n路口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2406019,
+                    24.9555844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區中和路\n101~95 號之間",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2266075,
+                    24.9541562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區榮民路跟興安二街[桃園市中壢區中正里 24 鄰\n榮民路 285 巷 11 弄\n9 號]",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2618243,
+                    24.9641837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "萬大路 88 巷 26 弄\n20 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.230527,
+                    24.9902673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區民溪三\n路 6 號橋邊",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2019542,
+                    25.0175291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區內厝 5\n路 129 巷 35 弄",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.186339,
+                    24.974316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區中正路\n二段 433 巷(工廠內)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1908041,
+                    24.9802505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區福祥路\n458 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1724466,
+                    24.9801872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區松勇一\n街及松勇三街",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1632341,
+                    24.9613374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區環北路中福路交叉口[桃園市中壢區忠福里 2 鄰\n中福路 98 號]",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2289331,
+                    24.964813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區中正路\n1062 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2073868,
+                    24.9660078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區五光二\n街",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2099771,
+                    24.9587528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區環中東\n路 120 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2584563,
+                    24.9650635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區普光二\n街 102 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2455006,
+                    24.9493234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區三民路\n一段與五興路",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1965061,
+                    24.9596243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區利仁新村[桃園市中壢區華愛里 17 鄰榮民南路\n27 巷 2 弄 9 號]",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259506,
+                    24.95628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區崁頂路 1421 巷內（仁德公\n園旁）",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2661643,
+                    24.9538143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區中山東\n路二段 366 巷 18 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2428379,
+                    24.9491545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區龍岡路二段 383、347、321\n巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2305672,
+                    24.9406804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區龍仁路\n36 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2353843,
+                    24.9373067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區龍岡路\n3 段 37 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2316669,
+                    24.9382608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區龍岡路\n三段 243 巷 54 弄",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2357936,
+                    24.9358687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區龍江路\n99 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2578304,
+                    24.9315952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中華路二段 430 號\n(簡易法庭)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5569835,
+                    24.2527877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "永福里南園二路 101\n巷 6 弄",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.232436,
+                    24.9712706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中園路 187 巷 1 弄",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2356863,
+                    24.9693955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "內壢里中華路一段 60 巷 37 弄 16-1 號\n門口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2616195,
+                    24.9750024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "普忠地下道",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2440368,
+                    24.9629206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "桃園市中壢區大仁路 9 號(大仁三街大仁\n四街大仁五街)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2415935,
+                    24.9552439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "新光福德宮老街溪旁\n(義民路二段)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.27228,
+                    31.37912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區中新地下道",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2291712,
+                    24.9547442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "龍昌里文化新村、龍\n昌路 226 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2484265,
+                    24.9366337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "新中北路二段 170 巷\n周邊",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2635435,
+                    24.9555708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區聖溪二路與民\n溪三路口(桃園水利會權責)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2053963,
+                    24.9721514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區萬能科大停車\n場",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2321796,
+                    24.9902455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區中園路二段\n89 巷 14 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2347552,
+                    24.9904712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區新生路二段 378 號(中壢一營業\n所黑貓宅急便)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2235244,
+                    24.9848393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區內厝里內厝五路 129 巷 35 弄 21 號\n民宅淹水(公所權責)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.186339,
+                    24.974316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中正路 4 段 37 巷(公\n所權責)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1815258,
+                    24.9879594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區環北路 546 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2285288,
+                    24.9647569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區內壢國中",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.248853,
+                    24.971042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區後興路二段\n(健行大學宿舍)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2327733,
+                    24.9452363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "龍興路（龍慈路至後\n興路）",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2421008,
+                    24.9391539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區龍岡路三段\n（游泳路口與龍岡路三段 460 巷路口)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.238533,
+                    24.931331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區普忠路地下道",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2491243,
+                    24.9577296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區中正路 1307\n巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2012935,
+                    24.969277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區龍和一街 235\n號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2453161,
+                    24.9399947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區龍江路 73 巷\n75 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.25785,
+                    24.9325582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區中山東路三段\n107 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2484683,
+                    24.9444892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區龍昌里龍川三\n街 31 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2476693,
+                    24.9354619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "興仁里環北路海華之\n星",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2619213,
+                    24.9690034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "龍江路 73 巷(計畫道\n路)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2577547,
+                    24.9324328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區仁福里榮民南路 27 巷口至新中北\n路",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259506,
+                    24.95628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區龍岡路一段 112 巷 11 號(一般住\n家)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.223534,
+                    24.94935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中壢區元化路地下道\n機車道",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2275361,
+                    24.9572354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "中壢區",
+                "addr": "中山東路三段 429 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2529348,
+                    24.9388576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "平鎮區",
+                "addr": "龍南路與仁和路二段\n路口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2540086,
+                    24.9119747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "平鎮區",
+                "addr": "金陵路 4 段 2~90 號\n(113 甲)淹水",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2305719,
+                    24.918065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "平鎮區",
+                "addr": "圳南路 50 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2444534,
+                    24.92344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "平鎮區",
+                "addr": "中豐路(南平路至南華街)石門農田水利\n會水路",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211941,
+                    24.9498786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "平鎮區",
+                "addr": "振興西路地下道",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2170407,
+                    24.9454912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "平鎮區",
+                "addr": "桃園市平鎮區新光路\n三段 240 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2058065,
+                    24.9229856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "平鎮區",
+                "addr": "環南路春虹麗晶社區、長江加油站",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.209301,
+                    24.9439322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "平鎮區",
+                "addr": "平鎮區龍南路附近\n(平東路)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.252155,
+                    24.917686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "平鎮區",
+                "addr": "環南路三段至環南地\n下道",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2209001,
+                    24.9400818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "平鎮區",
+                "addr": "平鎮區東豐路 133 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2147448,
+                    24.9027364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "楊梅區",
+                "addr": "埔心火車站後站地下道",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.183502,
+                    24.919588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "楊梅區",
+                "addr": "梅獅路二段 571 巷",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1838484,
+                    24.898902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "龍潭區",
+                "addr": "九龍里",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0642588,
+                    37.4765667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "龍潭區",
+                "addr": "桃園市龍潭區富華街",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2216066,
+                    24.8508077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "觀音區",
+                "addr": "台 61 線北上 38K+600\n橋下",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1131535,
+                    39.2867738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "觀音區",
+                "addr": "台 61 線北上 39K+000\n橋下(忠孝路口)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1131535,
+                    39.2867738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "觀音區",
+                "addr": "大觀路一段 579 號\n(保障宮)",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1442878,
+                    25.048535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "觀音區",
+                "addr": "桃園市觀音區廣玉路 27 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1137544,
+                    25.0359365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "觀音區",
+                "addr": "中觀路一段 116 號",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1513188,
+                    24.9668295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "dist": "觀音區",
+                "addr": "工業五路與玉林路二\n段路口",
+                "狀態": "未知",
+                "致災原因": "未知",
+                "解決對策": "未知"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1115159,
+                    25.0647159
+                ]
+            }
+        }
+    ]
+}

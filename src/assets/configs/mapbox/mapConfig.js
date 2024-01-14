@@ -2,13 +2,13 @@
 export const MapObjectConfig = {
 	antialias: true,
 	container: "mapboxBox",
-	center: [121.536609, 25.044808],
+	center: [121.24179, 24.95816],
 	maxBounds: [
-		[121.3870596781498, 24.95733863075891], // Southwest coordinates
-		[121.6998231749096, 25.21179993640203], // Northeast coordinates
+		[120.3870596781498, 22.95733863075891], // Southwest coordinates
+		[122.6998231749096, 25.21179993640203], // Northeast coordinates
 	],
-	zoom: 12.5,
-	minZoom: 11,
+	zoom: 11.5,
+	minZoom: 8,
 	maxZoom: 22,
 	projection: "globe", // display the map as a 3D globe
 };
@@ -75,7 +75,7 @@ export const TaipeiVillage = {
 export const TaipeiBuilding = {
 	id: "taipei_building_3d",
 	source: "taipei_building_3d_source",
-	"source-layer": "tp_building_height84-18p8j0",
+	"source-layer": "tp_building_height84-1xmzo2",
 	type: "fill-extrusion",
 	minzoom: 14,
 	paint: {
@@ -278,6 +278,81 @@ export const maplayerCommonLayout = {
 			0.4,
 			22,
 			0.9,
+		],
+	},
+	"symbol-flood_detector": {
+		"icon-image": "flood_detector",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.3,
+			14,
+			0.4,
+			22,
+			0.9,
+		],
+	},
+	"symbol-location_yellow": {
+		"icon-image": "location_yellow",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.3,
+			14,
+			0.4,
+			22,
+			0.9,
+		],
+	},
+	"symbol-location_red": {
+		"icon-image": "location_red",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.3,
+			14,
+			0.4,
+			22,
+			0.9,
+		],
+	},
+	"symbol-location_white": {
+		"icon-image": "location_white",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.3,
+			14,
+			0.4,
+			22,
+			0.9,
+		],
+	},
+	"symbol-pump": {
+		"icon-image": [
+		  "case",
+		  ["==", ["get", "all_pumb_lights"], "啟動中"],
+		  "pump_blue",
+		  "pump_white"
+		],
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.2,
+			14,
+			0.4,
+			22,
+			0.8,
 		],
 	},
 	"symbol-triangle_green": {
